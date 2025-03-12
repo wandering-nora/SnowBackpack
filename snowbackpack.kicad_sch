@@ -5466,12 +5466,6 @@
 		(uuid "18816d50-d9a6-4c34-a66f-5ed433c1aeab")
 	)
 	(junction
-		(at 358.14 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1a47a6dd-e684-4d5c-b1dd-8cedcf26a39b")
-	)
-	(junction
 		(at 76.2 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5786,6 +5780,10 @@
 	(no_connect
 		(at 240.03 153.67)
 		(uuid "90863eb3-f02d-4eed-a92b-f3417d072f5a")
+	)
+	(no_connect
+		(at 22.86 67.31)
+		(uuid "98116e57-5445-4672-84d4-c757e1e6c33d")
 	)
 	(no_connect
 		(at 67.31 135.89)
@@ -6332,16 +6330,6 @@
 			(type default)
 		)
 		(uuid "34f71c26-2ae7-419a-aa3e-e762d5932e3d")
-	)
-	(wire
-		(pts
-			(xy 355.6 55.88) (xy 358.14 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35ed1db7-d071-44e9-9128-5e862bf724a4")
 	)
 	(wire
 		(pts
@@ -7095,16 +7083,6 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 55.88) (xy 358.14 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70ba9ffa-e772-4716-ada7-43e0851d2327")
-	)
-	(wire
-		(pts
 			(xy 27.94 149.86) (xy 30.48 149.86)
 		)
 		(stroke
@@ -7752,16 +7730,6 @@
 			(type default)
 		)
 		(uuid "a8def43d-7f81-4521-be80-2c204f5ef623")
-	)
-	(wire
-		(pts
-			(xy 22.86 67.31) (xy 22.86 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9b858d0-9ee8-4544-8241-270f95ce5c1b")
 	)
 	(wire
 		(pts
@@ -12147,7 +12115,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:CW324S"
 			(at 22.86 60.325 0)
 			(effects
 				(font
@@ -15912,72 +15880,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 22.86 77.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "861797c4-0d82-47bf-b085-3728a223b23d")
-		(property "Reference" "#PWR041"
-			(at 22.86 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 22.86 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 22.86 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "09b5dd5d-a107-4277-b510-7ec596716f96")
-		)
-		(instances
-			(project "snow-backpack"
-				(path "/35bc9aca-8f77-4570-809d-0977de13afc4"
-					(reference "#PWR041")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 106.68 212.09 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16839,70 +16741,6 @@
 			(project "snow-backpack"
 				(path "/35bc9aca-8f77-4570-809d-0977de13afc4"
 					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Pin")
-		(at 350.52 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a6cfee1b-9cf8-4f61-ad11-6fb6b9699a92")
-		(property "Reference" "J12"
-			(at 341.884 52.832 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 341.63 55.626 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Custom:matrix-pad-gn"
-			(at 350.52 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 350.52 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 350.52 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b7be437c-446a-4838-9a7e-d1fcc468a7c0")
-		)
-		(instances
-			(project "snow-backpack"
-				(path "/35bc9aca-8f77-4570-809d-0977de13afc4"
-					(reference "J12")
 					(unit 1)
 				)
 			)
