@@ -8942,7 +8942,7 @@
 		(uuid "0eef2aa5-6ded-4bf3-96b4-e24b112257ce")
 	)
 	(label "USBCD+"
-		(at 313.69 127 0)
+		(at 313.69 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8952,7 +8952,7 @@
 		(uuid "5006482e-6a13-4dea-8827-91af61e215db")
 	)
 	(label "USBD+"
-		(at 341.63 127 180)
+		(at 341.63 129.54 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8982,7 +8982,7 @@
 		(uuid "bde9e466-c627-4b9f-8ed6-2a931ad8f16f")
 	)
 	(label "USBCD-"
-		(at 313.69 129.54 0)
+		(at 313.69 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9012,7 +9012,7 @@
 		(uuid "d4583a90-c241-408b-9612-a7389a398ffd")
 	)
 	(label "USBD-"
-		(at 341.63 129.54 180)
+		(at 341.63 127 180)
 		(effects
 			(font
 				(size 1.27 1.27)
