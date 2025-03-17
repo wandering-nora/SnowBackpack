@@ -559,11 +559,11 @@
     "netclass_patterns": [
       {
         "netclass": "USB2",
-        "pattern": "/USBCD*"
+        "pattern": "USBCD*"
       },
       {
         "netclass": "USB2",
-        "pattern": "/USBD*"
+        "pattern": "USBD*"
       }
     ]
   },
