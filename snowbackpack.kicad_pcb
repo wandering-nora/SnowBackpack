@@ -4876,7 +4876,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "RB161QS-40T18R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "55a604a8-35d4-4e9a-9835-cd4359d2715c")
@@ -12883,7 +12883,7 @@
 				)
 			)
 		)
-		(property "Value" "PTVS5V0Z1USK"
+		(property "Value" "KLXES15AAA1"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "24ef7d43-7eba-48f8-88bd-7b987b68bf81")
@@ -19462,7 +19462,7 @@
 		(path "/17c69f2e-f641-4a03-a188-9cd99c61f732")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -22345,7 +22345,7 @@
 		(path "/d88a2aac-a74b-4a37-9344-d89fc7b12c53")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -22454,7 +22454,7 @@
 		(path "/432ec141-f840-4404-9dd9-5884d756e7e4")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -23393,7 +23393,7 @@
 		(path "/741da5d3-8b21-4618-8846-0498125c6773")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
