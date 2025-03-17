@@ -9242,7 +9242,7 @@
 		(path "/02b06b06-3570-420b-939b-c38286038e38")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -11238,7 +11238,7 @@
 		(path "/ddc399f5-04ca-4b49-b292-2e7f9dcfd1a3")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -12618,7 +12618,7 @@
 		(path "/c72e75ed-2f11-44c8-a1ff-5e35f2d9a73a")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -14285,7 +14285,7 @@
 		(path "/d32ff6a0-fb8c-4a30-af93-6954be9f1a88")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -17813,7 +17813,7 @@
 		(path "/06d70be5-510c-4139-9190-baf521df6ee0")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at -0.6 0.05 90)
 			(size 0.9 0.9)
@@ -17957,7 +17957,7 @@
 		(path "/a267cced-0372-4bef-ae77-aba5f4ed4d63")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -18066,7 +18066,7 @@
 		(path "/5e1a2eb6-29be-40a7-a7d4-8696710c1abe")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at -0.6 0.05 90)
 			(size 0.9 0.9)
@@ -18166,7 +18166,7 @@
 		(path "/80d1943e-2e7d-4539-b1ca-6d5809eb43e5")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at -0.6 0.05 270)
 			(size 0.9 0.9)
@@ -19353,7 +19353,7 @@
 		(path "/b1309401-7005-4c6e-870f-56236f9774b8")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -19571,7 +19571,7 @@
 		(path "/7b8abf12-5848-48fe-995e-bb1bedfa81dd")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at -0.6 0.05 180)
 			(size 0.9 0.9)
@@ -19671,7 +19671,7 @@
 		(path "/a53f2247-f244-49b2-a986-8405834fb239")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at -0.6 0.05 90)
 			(size 0.9 0.9)
@@ -20501,7 +20501,7 @@
 		(path "/7944fca0-03b9-40ce-b11d-15b4761303b7")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at -0.6 0.05 270)
 			(size 0.9 0.9)
@@ -20958,7 +20958,7 @@
 		(path "/15c809aa-c0cb-4149-ba01-95fa6171b001")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at -0.6 0.05)
 			(size 0.9 0.9)
@@ -21058,7 +21058,7 @@
 		(path "/60395f42-ab1d-4eb4-849a-191a68ef0397")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at -0.6 0.05)
 			(size 0.9 0.9)
@@ -21888,7 +21888,7 @@
 		(path "/9b9cd93b-c04c-4d8d-b8af-d6729785cbe0")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at -0.6 0.05 270)
 			(size 0.9 0.9)
@@ -22892,7 +22892,7 @@
 		(path "/ef0b01e5-9e53-46c3-b577-44d79bff7f5b")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at -0.6 0.05 180)
 			(size 0.9 0.9)
@@ -23831,7 +23831,7 @@
 		(path "/2b0c6cac-39eb-44a4-a7a6-ddb45c94c796")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(pad "1" thru_hole circle
 			(at -0.6 0.05 90)
 			(size 0.9 0.9)
@@ -24411,7 +24411,7 @@
 		(path "/4e023687-2ff7-474d-95b1-01ae5e0efa9f")
 		(sheetname "/")
 		(sheetfile "snowbackpack.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
