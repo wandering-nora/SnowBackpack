@@ -6,7 +6,7 @@ This board can power a grid of 2+ SnowPixel displays without any wiring in a thi
 The main features are:
 - ESP8685H4 mcu with 4MB of flash, Wifi and BLE
 - Battery charging for protected 1s lipo cells
-- ST LSM6DSO 6 axis low power accelerometer
+- ST LSM6DSO 6-axis low power accelerometer
 - Efficient 5V boost converter with 500mA max current for the SnowPixel modules
 - On board ceramic antenna
 
