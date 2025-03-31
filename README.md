@@ -10,11 +10,9 @@ The main features are:
 - Efficient 5V boost converter with 500mA max current for the SnowPixel modules
 - On board ceramic antenna
 
-<p align="center">
-  <img src="./images/snowbackpack_top.png" style="width: 45%; height: auto;" />
-   &nbsp;&nbsp;
-  <img src="./images/snowbackpack_bottom.png" style="width: 45%; height: auto;" />
-</p>
+
+<img src="./images/snowbackpack.png" style="width: 100%; height: auto;" />
+
 
 ## Drawbacks 
 The part selection was not done with budget in mind as this is mainly a project to mess around with fancy chips.  
