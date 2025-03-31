@@ -1038,7 +1038,7 @@
 			(uuid "05c9876e-b8bf-4dd3-ae1c-d8338a1c8276")
 		)
 		(embedded_fonts no)
-		(model "JLC2KiCad_lib/footprint/packages3d/TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR.step"
+		(model "/home/nora/JLC2KiCad_lib/footprint/packages3d/TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5061,15 +5061,15 @@
 			(uuid "10781b7b-7361-49c9-96f6-50deb0f810a8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0402_1005Metric.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0603_1608Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 0.8 0.8 0.8)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -8934,15 +8934,15 @@
 			(uuid "10dd3f67-edd7-43a3-8430-cc0ae37f0896")
 		)
 		(embedded_fonts no)
-		(model "JLC2KiCad_lib/footprint/packages3d/IND-SMD_L2.5-W2.0.step"
+		(model "/home/nora/JLC2KiCad_lib/footprint/packages3d/IND-SMD_L2.5-W2.0.step"
 			(offset
-				(xyz -914.3494403 685.7745897 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -9730,15 +9730,15 @@
 			(uuid "0739a973-6660-423a-82df-7b4d73bd5d8c")
 		)
 		(embedded_fonts no)
-		(model "JLC2KiCad_lib/footprint/packages3d/SOT-563-6_L1.6-W1.2-P0.50-LS1.6-BL.step"
+		(model "/home/nora/JLC2KiCad_lib/footprint/packages3d/SOT-563-6_L1.6-W1.2-P0.50-LS1.6-BL.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -10628,7 +10628,7 @@
 			(uuid "8ea12d66-42d0-4c6f-9933-5ae8cd56b2c3")
 		)
 		(embedded_fonts no)
-		(model "JLC2KiCad_lib/footprint/packages3d/CRYSTAL-SMD_4P-L1.6-W1.2-BL.step"
+		(model "/home/nora/JLC2KiCad_lib/footprint/packages3d/CRYSTAL-SMD_4P-L1.6-W1.2-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12345,15 +12345,15 @@
 			(uuid "af5970f1-a68d-47ae-a54f-c875db787849")
 		)
 		(embedded_fonts no)
-		(model "JLC2KiCad_lib/footprint/packages3d/QFN-28_L4.0-W4.0-P0.40-TL-EP2.7.step"
+		(model "/home/nora/JLC2KiCad_lib/footprint/packages3d/QFN-28_L4.0-W4.0-P0.40-TL-EP2.7.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.8)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -13068,15 +13068,15 @@
 			(uuid "c346ffc6-b10a-4909-9e23-036a2c4d8e09")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0402_1005Metric.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0603_1608Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 0.8 0.8 0.8)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -13483,15 +13483,15 @@
 			(uuid "d23cb03f-c5a5-4efc-851f-db3394d98876")
 		)
 		(embedded_fonts no)
-		(model "JLC2KiCad_lib/footprint/packages3d/CONN-SMD_2P-P0.80_JUSHUO_AFC08-S02QCA-00.step"
+		(model "/home/nora/JLC2KiCad_lib/footprint/packages3d/CONN-SMD_2P-P0.80_JUSHUO_AFC08-S02QCA-00.step"
 			(offset
-				(xyz 0 -0.2489961963 0)
+				(xyz 0 1.251004 0.9)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -15428,7 +15428,7 @@
 			(uuid "a1e94620-b1f6-4620-8694-c856d732a63e")
 		)
 		(embedded_fonts no)
-		(model "JLC2KiCad_lib/footprint/packages3d/USB-C-SMD_XUNPU_TYPEC-304A-ACP16L.step"
+		(model "/home/nora/JLC2KiCad_lib/footprint/packages3d/USB-C-SMD_XUNPU_TYPEC-304A-ACP16L.step"
 			(offset
 				(xyz 0 -1.150010383 -0.999997985)
 			)
@@ -15963,15 +15963,15 @@
 			(uuid "25925948-1bb2-4b4b-8808-705a9e88c1e7")
 		)
 		(embedded_fonts no)
-		(model "JLC2KiCad_lib/footprint/packages3d/LGA-14L_L3.0-W2.5-P0.50-TL.step"
+		(model "/home/nora/JLC2KiCad_lib/footprint/packages3d/LGA-14L_L3.0-W2.5-P0.50-TL.step"
 			(offset
-				(xyz 0.2398521964 -0.3717797944 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -16366,7 +16366,7 @@
 			(uuid "ee9d775c-6178-441f-99c5-e8fb4c165ffa")
 		)
 		(embedded_fonts no)
-		(model "JLC2KiCad_lib/footprint/packages3d/KEY-SMD_B3U-1000PM.step"
+		(model "/home/nora/JLC2KiCad_lib/footprint/packages3d/KEY-SMD_B3U-1000PM.step"
 			(offset
 				(xyz 0 0 0)
 			)
