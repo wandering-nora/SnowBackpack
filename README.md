@@ -12,8 +12,3 @@ The main features are:
 
 
 <img src="./images/snowbackpack.png" style="width: 100%; height: auto;" />
-
-
-## Drawbacks 
-The part selection was not done with budget in mind as this is mainly a project to mess around with fancy chips.  
-The boost converter drive current of 500mA can be somewhat limiting for bigger / bright outdoor displays.
