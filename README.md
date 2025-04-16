@@ -12,3 +12,10 @@ The main features are:
 
 
 <img src="./images/snowbackpack.png" style="width: 100%; height: auto;" />
+
+
+## Todo for V1.2
+- [ ] Get rid of jumper on data out pad
+- [ ] Change battery connector to a 1A capable one
+- [ ] Consider removing extra pads on long edge
+
